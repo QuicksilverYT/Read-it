@@ -1,4 +1,4 @@
-@@ -1,18 +1,18 @@
+
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Quicksilver</h1>
 <h3 align="center">A guy from India.</h3>
@@ -9,7 +9,6 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 Check out my bot **[here](https://discordwebsite.abhinav-singhs2.repl.co/)**
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
 
 - 📫 How to reach me **sketchquicksilver@gmail.com**
 
